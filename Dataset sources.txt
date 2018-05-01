@@ -1,0 +1,4 @@
+1 http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
+2 https://archive.ics.uci.edu/ml/datasets/Pen-Based+Recognition+of+Handwritten+Digits
+3 
+4 
