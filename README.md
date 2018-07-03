@@ -29,6 +29,8 @@ This project is a part of our course work (EE769). This project aims at expandin
 ### References
 Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
 (http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+
 Our code is inspired by:
+
 https://github.com/znxlwm/pytorch-generative-model-collections
 
