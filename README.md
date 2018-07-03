@@ -31,6 +31,5 @@ Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural inform
 (http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
 Our code is inspired by:
-
 https://github.com/znxlwm/pytorch-generative-model-collections
 
