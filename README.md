@@ -17,7 +17,7 @@ This project is a part of our course work (EE769). This project aims at expandin
 
 ### Development Environment
 * Ubuntu 16.04 LTS
-* NVIDIA 640M
+* NVIDIA 840M
 * cuda 9.0
 * Python 2.7.6
 * pytorch 0.4.0
